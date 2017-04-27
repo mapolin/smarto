@@ -1,0 +1,1 @@
+const Samrto = require('./src/server.js')();
